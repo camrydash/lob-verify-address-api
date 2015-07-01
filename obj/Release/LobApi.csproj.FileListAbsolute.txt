@@ -1,0 +1,6 @@
+C:\gitrepo\MedBridge\LobApi\obj\Release\LobApi.csprojResolveAssemblyReference.cache
+C:\gitrepo\MedBridge\LobApi\bin\Release\LobApi.dll
+C:\gitrepo\MedBridge\LobApi\bin\Release\LobApi.pdb
+C:\gitrepo\MedBridge\LobApi\bin\Release\Newtonsoft.Json.dll
+C:\gitrepo\MedBridge\LobApi\obj\Release\LobApi.dll
+C:\gitrepo\MedBridge\LobApi\obj\Release\LobApi.pdb
